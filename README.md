@@ -1,1 +1,1 @@
-"# mathPendulumWPF" 
+# mathPendulumWPF
